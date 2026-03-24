@@ -1,4 +1,3 @@
-# igp task
 
 ## Project Overview
 
@@ -35,7 +34,7 @@ The project is orchestrated using Docker Compose, enabling seamless management o
 
 To start the project, Docker and Docker Compose are required. The `.env` file is committed for convenience, though it would normally not be committed for security reasons.
 
-To start the project, run the following command:
+To start the project, run the following command: docker compose up -d
 
 
 ## Flow
